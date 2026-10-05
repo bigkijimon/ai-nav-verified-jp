@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /inquiry/
+Sitemap: https://bigkijimon.github.io/ai-nav-verified-jp/sitemap.xml
